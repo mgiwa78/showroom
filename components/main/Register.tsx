@@ -2,7 +2,7 @@ import React from "react";
 
 const Register = () => {
   return (
-    <section className=" pt-10" data-animated-id="2" id="register">
+    <section className=" pt-10" data-animated-id="4" id="register">
       <div className="container">
         <h2 className="fs-sm-40 mb-10 text-center">
           Send In A Request and we'll get right <br /> back to you{" "}
