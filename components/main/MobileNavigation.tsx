@@ -4,13 +4,13 @@ import React from "react";
 const MainMobileNavigation = () => {
   return (
     <div
-      className="sidenav sidenav-landing canvas-sidebar bg-white show"
+      className="sidenav sidenav-landing canvas-sidebar bg-white "
       id="landingMenu"
     >
       <div className="canvas-overlay"></div>
       <div className="pt-5 card border-0 h-100">
         <div className="d-flex align-items-center mb-10 card-header border-0 py-0 pl-8 pr-7 bg-transparent">
-          <a href="index.html" className="d-block w-52px">
+          <a href="index.html" className="d-block w-75">
             <img src="images/logo.svg" alt="Furnitor" />
           </a>
           <span className="canvas-close d-inline-block text-right fs-24 ml-auto lh-1 text-primary">
@@ -60,11 +60,11 @@ const MainMobileNavigation = () => {
               </a>
             </li>
           </ul>
-          <a className="btn btn-primary btn-lg" href="#register">
-            Register
-          </a>
         </div>
         <div className="card-footer bg-transparent border-0 mt-auto pl-8 pr-7 pb-0 pt-8">
+          <a className="btn mb-5 btn-primary btn-lg" href="#register">
+            Register
+          </a>
           <ul className="list-inline d-flex align-items-center mb-3">
             <li className="list-inline-item mr-4">
               <a href="#" className="fs-20 lh-1">

@@ -14,7 +14,7 @@ const WhatIsShowroom = () => {
           </h3>
         </div>
         <div className="mxw-830 mx-auto mb-8">
-          <p className="fs-20 text-primary font-weight-500 mb-5">
+          <p className="fs-20 text-primary text-center font-weight-500 mb-5">
             Introducing our revolutionary digital platform that redefines the
             way furniture businesses operate and connect with their clients.
             With our cutting-edge software, you'll embark on a journey of
