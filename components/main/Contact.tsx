@@ -15,7 +15,7 @@ const Contact = () => {
               </p>
               <form>
                 <div className="row mb-6">
-                  <div className="col-sm-6">
+                  <div className="col-sm-6 mb-6">
                     <input
                       type="text"
                       className="form-control"

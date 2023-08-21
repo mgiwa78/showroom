@@ -110,6 +110,7 @@ const Register = () => {
                   </label>
                   <textarea
                     className="form-control"
+                    rows={5}
                     id="exampleInputPassword1"
                     placeholder="What do you and your company hope to gain with this software, Help us serve you better"
                   />
