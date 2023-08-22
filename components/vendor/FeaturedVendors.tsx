@@ -57,8 +57,9 @@ const FeaturedVendors = () => {
                     Vento
                   </p>
                   <h1
-                    className="mb-7 fs-sm-60 fs-lg-90 lh-1 mw-75"
+                    className="mb-7 fs-sm-60 fs-lg-90 lh-1  w-75 "
                     data-animate="fadeInUp"
+                    style={{ lineHeight: "40" }}
                   >
                     Italian leather Collection
                   </h1>
@@ -103,7 +104,7 @@ const FeaturedVendors = () => {
                     Baffi
                   </p>
                   <h2
-                    className="mb-7 fs-sm-60 fs-lg-90 lh-1"
+                    className="mb-7 fs-sm-60 fs-lg-90 lh-1  w-75"
                     data-animate="fadeInUp"
                   >
                     Luxury tilling
@@ -149,7 +150,7 @@ const FeaturedVendors = () => {
                     Viva
                   </p>
                   <h2
-                    className="mb-7 fs-sm-60 fs-lg-90 lh-1"
+                    className="mb-7 fs-sm-60 fs-lg-90 lh-1  w-75"
                     data-animate="fadeInUp"
                   >
                     Empirial Lighting with prime interio

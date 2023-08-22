@@ -23,10 +23,19 @@ const CTA = () => {
                   clients' screens." Experience the Furniture Showroom
                   Revolution. Embrace the Digital Era with Showroom."
                 </p>
-                <Link href={"/#register"}>
-                  <h2 className="fs-30 fs-md-40 mb-4 text-center">
+                <Link
+                  className="btn  btn-primary btn-lg"
+                  style={{
+                    backgroundColor: "#dedbd2",
+                    color: "#000",
+                    border: "2px solid #000",
+                    marginBottom: "-10px"
+                  }}
+                  href={"/#register"}
+                >
+                  <h4 className="fs-30 fs-md-20  text-center">
                     Request for a virtual space
-                  </h2>
+                  </h4>
                 </Link>
               </div>
             </div>
