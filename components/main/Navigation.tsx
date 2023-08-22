@@ -43,8 +43,8 @@ const MainNavigationBar = () => {
                       aria-expanded="false"
                       className="nav-item py-2 py-lg-5 px-0 px-lg-4"
                     >
-                      <a className="nav-link p-0" href="#">
-                        About
+                      <a className="nav-link p-0" href="/vendors">
+                        Our Vendors
                       </a>
                     </li>
                     <li

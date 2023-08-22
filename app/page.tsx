@@ -12,6 +12,7 @@ export default function Home() {
     <>
       <MainNavigationBar />
       <HeroSection />
+
       <WhatIsShowroom />
       <Features />
       <Register />

@@ -32,6 +32,7 @@ export default function RootLayout({
     <html lang="en">
       <Head>
         <link rel="icon" href="/images/favicon.html" />
+        <link rel="icon" href="/vendors/jquery.min.js" />
       </Head>
       <body className={poppins.className}>
         {children}
